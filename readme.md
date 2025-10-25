@@ -8,8 +8,11 @@ La Empresa Bet-el Creativa a tenido problemas en la gestion del inventario, esto
 
 *Sanitización y Validación de Datos:*
 Inyección SQL: Validación de tipos numéricos.
+
 Cross-Site Scripting: htmlspecialchars() en todos los datos de entrada.
+
 Datos corruptos: Validación de rangos y formatos
+
 Valores extremos: Límites en precios y cantidades
 
 *Validación en Tiempo Real*
